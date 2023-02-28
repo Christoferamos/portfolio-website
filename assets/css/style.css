@@ -117,7 +117,7 @@
   border-bottom-color: #3898ec;
   border-left-color: #3898ec;
   border-right-color: #3898ec;
-  background-image: url(https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg);
+  background-image: url('/svgexport-1.svg');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2755,21 +2755,21 @@ figcaption {
 }
 @font-face {
   font-family: 'Inter';
-  src: url('https://uploads-ssl.webflow.com/63a364103e5c9ae0870e69e8/63a364103e5c9a70b20e6a29_Inter-Italic.woff2') format('woff2'), url('https://uploads-ssl.webflow.com/63a364103e5c9ae0870e69e8/63a364103e5c9aa4860e6a2e_Inter-Italic.woff') format('woff');
+  src: url('../Fonts/Inter-Italic.woff2') format('woff2');
   font-weight: 400;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: 'Inter';
-  src: url('https://uploads-ssl.webflow.com/63a364103e5c9ae0870e69e8/63a364103e5c9accc30e6a2a_Inter-Regular.woff2') format('woff2'), url('https://uploads-ssl.webflow.com/63a364103e5c9ae0870e69e8/63a364103e5c9a5b1d0e6a2d_Inter-Regular.woff') format('woff');
+  src: url('../Fonts/Inter-Regular.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Inter';
-  src: url('https://uploads-ssl.webflow.com/63a364103e5c9ae0870e69e8/63a364103e5c9a74160e6a2c_Inter-SemiBold.woff2') format('woff2'), url('https://uploads-ssl.webflow.com/63a364103e5c9ae0870e69e8/63a364103e5c9ab4600e6a2b_Inter-SemiBold.woff') format('woff');
+  src: url('../Fonts/Inter-SemiBold.woff2') format('woff2');
   font-weight: 600;
   font-style: normal;
   font-display: swap;
